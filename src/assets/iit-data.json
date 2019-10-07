@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Kharagpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3104489915508,
+          22.31442460336608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Bombay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9088835,
+          19.1328493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Kanpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.223841,
+          26.5118867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Madras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.230923,
+          12.9893535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1873232,
+          28.5431249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Guwahati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6896883,
+          26.1866268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Roorkee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8939796,
+          29.8658535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Varanasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9848885,
+          25.2616931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Bhubaneswar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6735276,
+          20.2247892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Gandhinagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.681997,
+          23.2114604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Hyderabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1209167,
+          17.5947033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Jodhpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1112448,
+          26.4710809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Patna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8454836,
+          25.5451365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Ropar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4889497,
+          30.9735472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Indore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9185344,
+          22.5203597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Mandi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9867803,
+          31.7783615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Palakkad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8163603,
+          10.801716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Tirupati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4728365,
+          13.6299103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT (ISM) Dhanbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4386307,
+          23.8132617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Bhilai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6574324,
+          21.1628429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Goa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9770823,
+          15.4272881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Jammu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.893984,
+          32.8036051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IIT Dharwad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9130164,
+          15.5051174
+        ]
+      }
+    }
+  ]
+}
